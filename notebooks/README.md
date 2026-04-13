@@ -1,4 +1,4 @@
 Notebooks for project checkpoints
 
-- checkpoint1.html: Data preparation and setup
-- checkpoint2.html: Model training and evaluation
+- checkpoint1.ipynb: Data preparation and setup
+- checkpoint2.ipynb: Model training and evaluation
